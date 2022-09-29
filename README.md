@@ -4,5 +4,4 @@ they can send messages to anyone they want and more things that you can do, but 
 
 • Written with JavaScript, React and nodejs.
 
-
 • A MonogoDB database is used to store the data
